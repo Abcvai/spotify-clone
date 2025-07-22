@@ -36,9 +36,6 @@ spotify-clone/
 ├── assets/
 │   ├── logo.png
 │   └── song-cover.jpg
-├── screenshots/
-│   ├── desktop.png
-│   └── mobile.png
 └── README.md
 
 
