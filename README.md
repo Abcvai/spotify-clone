@@ -27,17 +27,24 @@ This is a front-end project developed for learning and practicing responsive web
 
 ---
 
-## 📸 Screenshots
+## 📁 Folder Structure
 
-### 💻 Desktop View
-![Desktop View](screenshots/desktop.png)
+```plaintext
+spotify-clone/
+├── index.html
+├── style.css
+├── assets/
+│   ├── logo.png
+│   └── song-cover.jpg
+├── screenshots/
+│   ├── desktop.png
+│   └── mobile.png
+└── README.md
 
-### 📱 Mobile View
-![Mobile View](screenshots/mobile.png)
 
-*(Add your own screenshots inside a `screenshots/` folder)*
+🙋‍♀️ About Me
+Made with ❤️ by Vaishnavi Bhangare
+Currently learning Full Stack Development | Exploring Frontend & Creative Web Design
 
----
-
-## 📂 Folder Structure
+⭐ Don't forget to Star the repo if you liked it!
 
